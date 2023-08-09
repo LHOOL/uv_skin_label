@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uv</folder>
+	<filename>uv_0523_10.png</filename>
+	<path>C:\Users\Administrator\Desktop\vision\dataset\skin\uv\uv_0523_10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sebum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>739</xmin>
+			<ymin>85</ymin>
+			<xmax>771</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>
